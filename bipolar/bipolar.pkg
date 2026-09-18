@@ -1,5 +1,10 @@
-D 'xtregdhp': Han-Philips (2010) Linear Dynamic Panel Data Regression Use xtregdhp With STATA 19
+D 'bipolar': Measures of (Income) Bi-polarization Use bipolar With STATA 19
 D
-F xtregdhp.ado
-F xtregdhp.dlg
-F xtregdhp.sthlp
+F bipolar.ado
+F bipolar.sthlp
+F fracrank.ado
+F fracrank.sthlp
+F sgini.ado
+F sgini.sthlp
+F sginicorr.ado
+F sginicorr.sthlp
